@@ -19,7 +19,7 @@ class AboutCard extends StatelessWidget {
     return Card(
       color: theme.colorScheme.primary,
       child: Padding(
-        padding: const EdgeInsets.all(50),
+        padding: const EdgeInsets.all(10),
         child: Wrap(
           children: [
             Text(
